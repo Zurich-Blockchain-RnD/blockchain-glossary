@@ -13,4 +13,6 @@ To make this glossary more useful, we will ![#f03c15](https://placehold.it/15/f0
 Please feel free to refine, add, comment, or remove unnecessary terms, and if you copy terms from other sources, make sure to
 note them, to give proper credits and to verify that you aren't breaking any licencing terms.
 
+Add your changes to the pre-master branch so we can review and add them to the master branch.
+
 The Zurich Blockchain Developers group
