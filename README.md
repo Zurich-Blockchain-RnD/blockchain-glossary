@@ -8,7 +8,7 @@ banking industry, trading, financial instruments, etc.
 Standardization of the terms of any emerging solution serves as the basis of communication regarding its proper development and use,
 so here's a blockchain glossary which we hope will be useful to everyone involved or interested in this wonderful and exciting technology.
 
-To make this glossary more useful, we will ![#f03c15] `color code`  it to categorize technological, legal, financial and other terms.
+To make this glossary more useful, we will ![#f03c15]() `color code`  it to categorize technological, legal, financial and other terms.
 
 Please feel free to refine, add, comment, or remove unnecessary terms, and if you copy terms from other sources, make sure to
 note them, to give proper credits and to verify that you aren't breaking any licencing terms.
