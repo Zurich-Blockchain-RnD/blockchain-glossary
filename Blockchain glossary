@@ -1,0 +1,418 @@
+Blockchain glossary
+
+51% Attack
+When more than half of the computing power of a POW blockchain, or more than half of the staked coins of a POS blockchain are controlled by a single entity or group, this entity or group may issue conflicting transactions to harm the network, should they have the malicious intent to do so. Some blockchains may require a varying percentage of control in order to control or attack the blockchain.
+
+Address (public key)
+Addresses (Cryptocurrency addresses) are used to receive and send transactions on the network. An address is a string of alphanumeric characters, but can also be represented as a scannable QR code.
+
+Agreement Ledger
+An agreement ledger is distributed ledger used by two or more parties to negotiate and reach agreement.
+
+All Time High (ATH)
+Refers to the maximum price of an asset, higher than at any other time in its trading history. Cryptocurrencies have risen dramatically, creating many consecutive ATHs.
+
+Altcoin
+Describes all crytocurrencies that are not Bitcoin - like Ethereum, Litecoin, and Monero. It is short for "Alternative Coin" (AKA coins that were created after the concept of Bitcoin).
+
+Anti Money Laundering (AML)
+Laws and regulations in most nations put in place to prevent illegal activities. Compels exchanges and other money transmitters to report suspicious activity.
+
+Arbitrage
+Taking advantage of the price difference of an asset on two different markets or exchanges, often internationally. The price difference is used for a quick profit.
+
+ASIC
+ASIC is an acronym for “Application Specific Integrated Circuit”. ASICs are silicon chips specifically designed to do a single task. In the case of bitcoin, they are designed to process SHA-256 hashing problems to mine new bitcoins.
+
+Attestation Ledger
+A distributed ledger providing a durable record of agreements, commitments or statements, providing evidence (attestation) that these agreements, commitments or statements were made.
+
+Bag-holder
+A person who is still holding an asset after a pump and dump scheme. Can also refer to somebody who is believing in and holding a coin that's declining in value.
+
+Bear
+A person who is pessimistic about market prices and expects them to go down. This person is also known to be "bearish" about the market and price expectations.
+
+Bear Trap
+A false market signal where the rising trend of an asset appears to be turning down, but actually is not. Short sellers are forced to to exit their positions to stop losing money.
+
+Bitcoin (BTC) (uppercase)
+The well known cryptocurrency, based on the proof-of-work blockchain.
+
+bitcoin (lowercase)
+The specific collection of technologies used by Bitcoin’s ledger, a particular solution. Note that the currency is itself one of these technologies, as it provides the miners with the incentive to mine.
+
+Bitcoin Cash
+A clone (AKA "fork") of Bitcoin that focuses on processing high volumes of transactions differently. Created because of disagreements about how to best grow digital currency.
+
+Bitcoin Gold
+A clone (AKA “fork”) of Bitcoin that focuses on handling high volumes of transactions differently. Similar to Bitcoin Cash and also created because of community disagreements.
+
+BitLicense
+The controversial business license issued for cryptocurrency companies in New York. Created and provided by the New York State Department of Financial Services (NYSDFS).
+
+Blockchain
+A blockchain is a type of distributed ledger, comprised of unchangeable, digitally recorded data in packages called blocks (rather like collating them on to a single sheet of paper). Each block is then ‘chained’ to the next block, using a cryptographic signature. This allows block chains to be used like a ledger, which can be shared and accessed by anyone with the appropriate permissions.
+
+Block Explorer
+Block explorer is an online tool to view all transactions, past and current, on the blockchain. They provide useful information such as network hash rate and transaction growth.
+
+Block Height
+Block height refers to the number of blocks connected together in the block chain. For example, Height 0, would be the very first block, which is also called the Genesis Block.
+
+Block Reward
+The reward given to a miner which has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees, depending on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 25 bitcoins for each block.
+
+Block Size
+Shows the file size of each block on a blockchain and therefore how many transactions can be bundled and proc
+
+Bug Bounty
+A reward offered for finding vulnerabilities and other issues in computer code. Often offered by cryptocurrency companies like exchanges and wallet providers to prevent hacks.
+
+Bull
+A person that is optimistic and confident that market prices will be going up. This person is also known to be "bullish" about the market and price expectations.
+
+Bull Trap
+A false market signal where the falling trend of a asset appears to be turning up, but actually is not. Long buyers can be forced to exit their positions to stop losing money.
+
+Chargeback
+In traditional payment systems (like credit cards), a customer can reverse a transaction and force the merchant to return funds. This is prevented with most cryptocurrencies although some designs attempt to allow this action.
+
+Client
+Software that can access blockchain on a local computer and also help process blockchain transactions. Often includes a cryptocurrency software wallet.
+
+Cold Storage
+The offline safekeeping of private keys which allow for access to cryptocurrency funds. Typically this is done through hardware wallets, USB drives, and paper wallets.
+
+Central Ledger
+A central ledger refers to a ledger maintained by a central agency.
+
+Confirmation
+A confirmation means that the blockchain transaction has been verified by the network. This happens through a process known as mining, in a proof-of-work system (e.g. Bitcoin). Once a transaction is confirmed, it cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.
+
+Consensus Process
+The process a group of peers responsible for maintaining a distributed ledger use to reach consensus on the ledger’s contents.
+
+Consensus Point
+A point – either in time, or defined in terms of a set number or volume of records to be added to the ledger – where peers meet to agree the state of the ledger.
+
+Consumer Tokens
+Tokens that are inherently consumptive in nature, because their intrinsic
+features are designed to serve as, or provide access to, a particular set of goods, services or content.
+*Global Digital Finance – Taxonomy for Cryptographic Assets
+
+Cryptocurrency
+A form of digital currency based on mathematics, where encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds. Furthermore, cryptocurrencies operate independently of a central bank.
+
+Cryptojacking
+Cryptojacking is referred as a secret use of a device to mine cryptocurrency. The first widely known attempt for cryptojacking was the torrent tracker Piratebay. They enabled an in-browser mining software so when somebody visits the website his/her computer will start mining cryptocurrency via the browser. Users started noticing the unusual behavior in their browsers and Piratebay took down the software. There have been many attempts for cryptojacking since then. The easiest way to find out if a computer is mining cryptocurrency is to check the resources monitor for unusual CPU behavior or using the debug console of your browser an look for mining scripts. Developers also released Chrome browser extensions to protect users from mining occurring on their devices.
+
+Cryptographic Hash Function
+Cryptographic hashes produce a fixed-size and unique hash value from variable-size transaction input. The SHA-256 computational algorithm is an example of a cryptographic hash.
+
+Dapp
+A decentralised application (Dapp) is an application that is open source, operates autonomously, has its data stored on a blockchain, incentivised in the form of cryptographic tokens and operates on a protocol that shows proof of value.
+
+DAICO
+A method for decentralized funding of projects. It combines ideas from Decentralized Autonomous Organizations (DAOs) and Initial Coin Offerings (ICOs). Project investors have the ability to vote and, if dissatisfied with the project's progress, could get their money back. Proposed by Vitalik Buterin, the creator of Ethereum.
+
+Decentralised Autonomous Organizations (DAO)
+Decentralised Autonomous Organizations can be thought of as corporations that run without any human intervention and surrender all forms of control to an incorruptible set of business rules.
+
+Decentralized Exchange (DEX)
+A peer-to-peer exchange that allows users to buy and sell cryptocurrency and other assets without the control or fees of a central authority. Unlike central services like CoinBase.
+
+Darknet
+A peer-to-peer layer of the internet that can only be accessed with special software that is not indexable by search engines. The Darknet is sometimes associated with illegal marketplaces and illicit activity but is used mainly to achieve online privacy.
+
+Digital Commodity
+A digital commodity is a scarce, electronically transferrable, intangible, with a market value.
+
+Digital Identity
+A digital identity is an online or networked identity adopted or claimed in cyberspace by an individual, organization, or electronic device. (or - Digital Identity
+Personal information like name, address, social security number, and more that are bundled and stored digitally. For blockchain digital identity can be stored decentralized.)
+
+Digital Signature
+A digital code generated by public key encryption that is attached to an electronically transmitted document to verify its contents and the sender’s identity.
+
+Distributed Ledger
+Distributed ledgers are a type of database that are spread across multiple sites, countries or institutions. Records are stored one after the other in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned” to control who can view it.
+
+Difficulty
+Difficulty, in Proof-of-Work mining, is how hard it is to verify blocks in a blockchain network. Unlike when the difficulty is high, when the difficulty is low, a miner needs to spend less processing power in order to find the solution to the next block so they can submit their solution to the network. In the Bitcoin network, the difficulty of mining adjusts verifying blocks every 2016 blocks. This is to keep block verification time at approximately ten minutes.
+
+Double Spend
+Double spend refers to a scenario, where someone tries to send the same token to two different recipients. However, once a transaction is confirmed on a blockchain, it makes it nearly impossible to double spend it. Also, the more confirmations a particular transaction has, the harder it becomes to double spend it.
+
+Encryption
+The use of mathematics and computer code (cryptography) to protect sensitive data like digital wallets, private keys, and personal information from unauthorized access.
+
+Enterprise Ethereum Alliance (EEA)
+A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications.
+
+Ethereum
+Ethereum is a blockchain-based decentralised platform for apps that run smart contracts, and is aimed at solving issues associated with censorship, fraud and third party interference.
+
+Ether (ETH)
+The digital currency of the Ethereum network. Ether is used to pay the transaction and processing fees (that are calculated using the GAS index) of Ethereum decentralized applications and smart contracts.
+
+Equity Tokens
+A token that represents an ownership interest in a company. Equity tokens work similar to traditional stocks and may include voting rights. Equity tokens are also used to represent ownership rights in company debt. They are designed to improve transparency and liquidity (the ability to buy and sell the equity when investors need it).
+
+EVM
+The Ethereum Virtual Machine (EVM) is a Turing complete virtual machine that allows anyone to execute arbitrary EVM Byte Code. Every Ethereum node runs on the EVM to maintain consensus across the blockchain.
+
+Exchange
+A system on which assets like cryptocurrencies can be bought, sold, and stored. Exchanges can be centralized where a company controls them; or decentralized (peer-to-peer).
+
+Exchange Traded Fund (ETF)
+A security that tracks a basket of assets such as stocks, bonds, and cryptocurrencies but can be traded like a single stock. Bought and sold on traditional stock exchanges.
+
+Fiat
+A term used to describe traditional government-issued and backed currencies like dollars, Euros, and Yen. Not backed by physical commodities but by legal tender laws.
+
+Flippening
+A potential future event, hoped for by Ethereum fans, where the total market cap of Ethereum surpasses the total market cap of Bitcoin - making Ethereum the most valuable.
+
+FOMO
+Internet culture term that stands for Fear of Missing Out. Describes actions taken by investors based on emotions and the fear of not benefitting from a price rise or drop.
+
+Fork
+Forks create an alternate version of the blockchain, leaving two blockchains to run simultaneously on different parts of the network.
+
+FUD
+Internet culture term that stands for Fear, Uncertainty, and Doubt. It means negative information that is being purposefully spread about an asset to make people sell.
+
+Futures
+Contracts to buy assets (like cryptocurrencies and stocks) with an agreement for future delivery on a regulated stock exchange. Used to speculate on the future price of an asset.
+
+Gas
+To run decentralized applications and smart contracts on the Ethereum network, apps calculate their usage using an internal pricing unit called Gas. Actual fees are then paid in Ether.
+
+Genesis Block
+A blockchain is a string of "blocks" that are linked together in order. Each block is a collection of bundled transactions. The genesis block is the very first block of a blockchain.
+
+Halving
+Bitcoins have a finite supply, which makes them a scarce digital commodity. The total amount of bitcoins that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.
+
+Hard Fork - fix
+A type of fork that renders previously invalid transactions valid, and vice versa. This type of fork requires all nodes and users to upgrade to the latest version of the protocol software.
+
+Hardware Wallet
+A physical storage device for cryptocurrencies that uses special technologies to protect the assets on it. Examples of hardware wallets are the products Ledger Nano S and Trezor.
+
+Hash Function
+Cryptographic computer code works like a one-way street. It's easy to decipher 250 + 250 = ? but much harder to find the correct answer (out of many) for ? + ? = 500.
+
+Hashrate
+The number of hashes that can be performed by a bitcoin miner in a given period of time (usually a second).
+
+HODL
+Internet culture term that stands for the resolve to hold assets over a longer period without selling. Became popular after an internet user misspelled the word hold.
+
+Hot Storage
+The online safekeeping of private keys which allow for access to cryptocurrency funds. Typically this is done through open-source online wallets and digital asset exchanges.
+
+Hybrid PoS/PoW
+A hybrid PoS/PoW allows for both Proof of Stake and Proof of Work as consensus algorithms on the network. In this method, a balance between miners and voters (holders) may be achieved, creating a system of community-based governance by both insiders (holders) and outsiders (miners).
+
+Initial Coin Offering (ICO)
+An Initial Coin Offering (also called an ICO) is an event in which a new cryptocurrency sells advance tokens from its overall coinbase, in exchange for upfront capital. ICOs are frequently used for developers of a new cryptocurrency to raise capital.
+
+Intermediary
+For cryptocurrencies, an intermediary is a traditional middleman like a bank. It's a central third party that no longer is required in a decentralized Blockchain system.
+
+Know Your Customer (KYC)
+Laws and regulations that require banks and other financial institutions to keep and report many details of their customers' personal information and transactions.
+
+Ledger
+An append-only record store, where records are immutable and may hold more general information than financial records.
+
+Lightning Network
+A proposed change to Bitcoin's blockchain that's designed to facilitate faster transactions and better scaling. Involves bi-directional payment channels and other changes.
+
+Litecoin
+A peer-to-peer cryptocurrency based on the Scrypt proof-of-work network. Sometimes referred to as the silver of bitcoin’s gold.
+
+Margin Trading
+This is some Refers to the trading practice where existing assets are used as collateral for short-term loans. The loans are then used in risky trades to magnify the gain or loss of the trade.text inside of a div block.
+
+Market Capitalization
+The total value of an asset, calculated by multiplying the total number of outstanding shares (or coins) and the price per share (or coin). Represents total size and popularity.
+
+Merkle Tree
+A system that splits complicated hash code functions into smaller chunks (creating a tree-like shape). This allows faster verification on large-scale blockchains.
+
+Microtransaction
+A business model where very small payments can be made in exchange for digital goods and services. For example, paying a tiny fee for every page of an ebook you read.
+
+Middleman
+For cryptocurrencies, a middleman is a traditional intermediary like a bank. It's a central third party that no longer is required in a decentralized Blockchain system.
+
+Miner
+An important participant in the blockchain network, who bundles transactions and gets paid in new coins and transaction fees in return for helping to run the system.
+
+Mining - fix
+The process by which transactions are verified and added to a blockchain. This process of solving cryptographic problems using computing hardware also triggers the release of cryptocurrencies.
+
+Monero
+A secure, private, and untraceable cryptocurrency. Monero is focused on being anonymous internet money, hiding your accounts and transactions from anybody but you.
+
+Multi Signature
+Multi-signature (multisig) addresses allow multiple parties to require more than one key to authorize a transaction. The needed number of signatures is agreed at the creation of the address. Multi signature addresses have a much greater resistance to theft.
+
+Node - fix
+A copy of the ledger operated by a participant of the blockchain network.
+
+Off-Ledger Currency
+A currency minted off-ledger and used on-ledger. An example of this would be using distributed ledgers to manage a national currency.
+
+On-Ledger Currency
+A currency minted on-ledger and used on-ledger. An example of this would be the cryptocurrency, Bitcoin.
+
+Offline Storage
+Cryptocurrency wallets can be stored on devices and systems that are connected to the internet or not. Offline storage is the latter case, providing additional protection from hacking.
+
+Oracle
+Oracles work as a bridge between the real world and the blockchain by providing data to smart contracts. Oracles are usually automated systems, but can be a manual feed. It's an essential function that helps to arbitrate smart contracts.
+
+Payment Token
+A token whose intrinsic features are designed to serve as a general purpose store
+of value, medium of exchange, and/or unit of account.
+*Global Digital Finance – Taxonomy for Cryptographic Assets
+
+Paper Wallet
+A type of cold storage where private and public keys (and often a QR code) are printed or written on physical paper to prevent hacking and theft.
+
+Peer-to-peer (P2P)
+P2P refers to the decentralized interactions that happen between at least two parties in a highly interconnected network. P2P participants deal directly with each other through a single mediation point.
+
+Participant
+An actor who can access the ledger: read records or add records to.
+
+Peer
+An actor that shares responsibility for maintaining the identity and integrity of the ledger.
+
+Permissioned Ledger
+A permissioned ledger is a ledger where actors must have permission to access the ledger. Permissioned ledgers may have one or many owners. When a new record is added, the ledger’s integrity is checked by a limited consensus process. This is carried out by trusted actors — government departments or banks, for example — which makes maintaining a shared record much simpler that the consensus process used by unpermissioned ledgers. Permissioned block chains provide highly-verifiable data sets because the consensus process creates a digital signature, which can be seen by all parties. A permissioned ledger is usually faster than an unpermissioned ledger.
+
+Private Currency
+A currency issued by a private individual or firm, typically secured against uninsured assets.
+
+Private Key
+A private key is a string of data that shows you have access to bitcoins in a specific wallet. Private keys can be thought of as a password; private keys must never be revealed to anyone but you, as they allow you to spend the bitcoins from your bitcoin wallet through a cryptographic signature.
+
+Public key (Address)
+
+Proof of Stake (POS)
+For Proof of Stake, miners still process and validate transactions, but do so by proving that they have ownership of a certain amount of the asset, rather than by performing energy-intensive computations. For PoS, miners “lock up” their assets (that’s the “stake”) and then promise to fairly process transactions: If they do an honest job, they get rewarded with transactions fee payments, but if they try to cheat, they get penalized and lose some or all of their locked assets. So in short, this system financially incentives honest behavior. Proof of Stake is designed to be more environmentally friendly than Proof of Work.
+
+Proof of Work (POW)
+For Proof or Work, so-called “miners” process transactions by using computers to solve complicated mathematical puzzles. They “proof” that they did this computational work by finding solutions to those puzzles. By doing this, they help validate and process transactions and in turn are paid for their work with transactions fees and with newly created coins.
+
+Raiden Network
+An upcoming protocol change to the Ethereum blockchain that is designed to allow for high-speed transfers and better scaling. Similar to Bitcoin's proposed Lightning Network.
+
+Replicated Ledger
+A blockchain ledger (see above) with one main copy of the data (master ledger), connected to a set of sub-layers of the same data (slave ledgers).
+
+Return on Investment (ROI)
+The percentage gain that was made with an investment or asset. For example, a 100% ROI means that the price of the asset or investment has doubled in value.
+
+Ripple
+A payment network built on distributed ledgers that can be used to transfer any currency. The network consists of payment nodes and gateways operated by authorities. Payments are made using a series of IOUs, and the network is based on trust relationships.
+
+Satoshi
+Named after the creator of Bitcoin, a Satoshi is the smallest unit of measure of the cryptocurrency. Each Satoshi is 0.00000001 Bitcoin, making the currency very divisible.
+
+Satoshi Nakamoto
+The mysterious creator of Bitcoin. Even though Bitcoin was created in 2008, to this day nobody knows his or her true identity. Satoshi could be a woman, a man, or a group.
+
+Scrypt
+An alternative proof of work system to SHA-256, designed to be particularly friendly to CPU and GPU miners, while offering little advantage to ASIC miners.
+
+SEC
+Short for Securities and Exchange Commission. A United States government agency that regulated securities (stocks, bonds, etc.) as well as stock exchanges.
+Segregated Witness (SegWit)
+A proposed change to Bitcoin's blockchain that would increase the block size limit from 1MB to 2MB for faster transactions. The implementation would be a fork (see above).
+
+Security tokens (Financial asset tokens)
+These cryptoassets have intrinsic features that are designed to represent
+assets typically of an underlying financial type, such as participations in
+companies or earnings streams, or an entitlement to dividends or interest
+payments. In terms of their economic function, these tokens are analogous to
+equities, bonds or derivatives (listed market instruments).
+*Global Digital Finance – Taxonomy for Cryptographic Assets
+
+SHA 256
+The cryptographic function used as the basis for bitcoin’s proof of work system.
+
+Sharding
+A scaling solution for blockchains to improve high-volume transaction speeds. Instead of every node (see above) holding a full blockchain copy, they only hold partial copies.
+
+Shill / Shilling
+Aggressively advertising an asset for personal financial gain, even to the detriment of others and often while distorting the truth. Also known as pumping.
+
+Silk Road
+A now defunct marketplace on the Darknet (see above) that was shut down by the FBI. It was best known for selling drugs and other illegal products and accepted Bitcoin.
+
+Smart Contracts
+Smart contracts are contracts whose terms are recorded in a computer language instead of legal language. Smart contracts can be automatically executed by a computing system, such as a suitable distributed ledger system.
+
+Soft Fork
+A soft fork differs from a hard fork in that only previously valid transactions are made invalid. Since old nodes recognize the new blocks as valid, a soft fork is essentially backward-compatible. This type of fork requires most miners upgrading in order to enforce, while a hard fork requires all nodes to agree on the new version.
+
+Solidity
+Solidity is Ethereum’s main programming language for developing smart contracts.
+
+State Channel
+A system that moves transaction interactions off the blockchain to reduce cost and increase speed. Transactions are locked until all participants agree and verify them. Example is the lightning network.
+
+Testnet
+A test blockchain used by developers to prevent expending assets on the main chain.
+
+Tokenless Ledger
+A tokenless ledger refers to a distributed ledger that doesn’t require a native currency to operate.
+
+Transaction Block
+A collection of transactions on the bitcoin network, gathered into a block that can then be hashed and added to the blockchain.
+
+Transaction Fee
+A small fee imposed on some transactions sent across the bitcoin network. The transaction fee is awarded to the miner that successfully hashes the block containing the relevant transaction.
+
+Trustless
+Blockchains are trustless because no participant needs to trust any other participant for transactions to work out. Trust comes from the system itself, which is impartial.
+
+Turing Complete - fix
+Turing complete refers to the ability of a machine to perform calculations that any other programmable computer is capable of. An example of this is the Ethereum Virtual Machine (EVM).
+
+Unpermissioned ledgers
+Unpermissioned ledgers such as Bitcoin have no single owner — indeed, they cannot be owned. The purpose of an unpermissioned ledger is to allow anyone to contribute data to the ledger and for everyone in possession of the ledger to have identical copies. This creates censorship resistance, which means that no actor can prevent a transaction from being added to the ledger. Participants maintain the integrity of the ledger by reaching a consensus about its state
+
+Utility Token
+A token that grants owners access to Blockchain products or services for specific projects. These tokens are not intended to be investments or to grant equity ownership in a project, though some investors speculate on a potential future price increase. Utility tokens are also known as utility coins, app coins, and user tokens.
+
+Vanity Address
+A cryptocurrency public address (see above) that includes custom letters and numbers that are human-readable. An example would look like 1r4523COINCOIN7u01174234kf.
+
+Wallet
+A file that houses private keys. It usually contains a software client which allows access to view and create transactions on a specific blockchain that the wallet is designed for.
+
+Web Wallet
+A type of cryptocurrency wallet that is online (hot storage). Most cryptocurrency exchange wallets are web wallets. Popular for their convenience but can increase hacking risk.
+
+Wei
+The smallest fraction of an Ether coin (Ether is the native currency of the Ethereum network). One Ether is made of 1000000000000000000 Wei, making Ether very divisible.
+
+Whale
+An investor that holds a very large amount of an asset. For cryptocurrencies, whales are often early buyers of a coin or large, institutional buyers that hold a massive stake.
+
+Whitepaper
+A formal, scientifically-written description of an idea or project. Whitepapers cover the theory and practical applications of cryptocurrencies, as well as many technical details.
+
+Zero Confirmation Transaction
+Cryptocurrency transactions are confirmed at regular intervals. New transactions have zero confirmations, which means they have not been verified yet and are less reliable.
+
+Zero Knowledge Proof
+In cryptography, a zero knowledge proof enables one party to provide evidence that something happened to another party - all without revealing private details.
+
