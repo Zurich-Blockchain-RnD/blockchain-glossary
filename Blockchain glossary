@@ -374,6 +374,10 @@ A test blockchain used by developers to prevent expending assets on the main cha
 Tokenless Ledger
 A tokenless ledger refers to a distributed ledger that doesn’t require a native currency to operate.
 
+Tragedy of the commons
+a term used in social science to describe a situation in a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.
+*Wikipedia
+
 Transaction Block
 A collection of transactions on the bitcoin network, gathered into a block that can then be hashed and added to the blockchain.
 
