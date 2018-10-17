@@ -399,6 +399,10 @@ Unpermissioned ledgers such as Bitcoin have no single owner — indeed, they can
 Utility Token
 A token that grants owners access to Blockchain products or services for specific projects. These tokens are not intended to be investments or to grant equity ownership in a project, though some investors speculate on a potential future price increase. Utility tokens are also known as utility coins, app coins, and user tokens.
 
+UTXO
+An Unspent Transaction Output (UTXO) that can be spent as an input in a new transaction.
+*bitcoin.org/en/glossary
+
 Vanity Address
 A cryptocurrency public address (see above) that includes custom letters and numbers that are human-readable. An example would look like 1r4523COINCOIN7u01174234kf.
 
